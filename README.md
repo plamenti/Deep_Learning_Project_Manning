@@ -30,6 +30,7 @@ Python: Version 3.6.
 TensorFlow: Version 2.2.
 
 We will be using the default version 2.2 but anything over version 2 will work. There was a major rewrite for v2 that introduced eager execution as well as rolling in Keras.
+
 pandas: Version 1.0.3.
 
 Matplotlib: Version 3.2.1.
