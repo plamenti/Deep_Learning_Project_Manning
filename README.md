@@ -23,7 +23,7 @@ TECHNIQUES
 Basics of machine learning
 
 #### Python libraries and setup
-The liveProject will be taught with the expectation that you are running a Google Colab notebook. But if you want to use a Jupyter Notebook or another Python IDE, that is fine as well. I will list the major libraries below, but we are using the default of what comes with Google Colab.
+Google Colab notebook / Jupyter Notebook / another Python IDE, that is fine as well.
 
 Python: Version 3.6.
 
