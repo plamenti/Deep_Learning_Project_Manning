@@ -14,10 +14,11 @@ The project is broken into 6 parts.
 The liveProject is for beginner or intermediate Python programmers with a desire to pick up some data science.
 
 TOOLS
-Basics of Python
-Basics of pandas
-Basics of Google Colab
-Basics of TensorFlow and Keras
+1. Basics of Python
+2. Basics of pandas
+4. 3. Basics of Google Colab
+5. Basics of TensorFlow and Keras
+
 TECHNIQUES
 Basics of machine learning
 
