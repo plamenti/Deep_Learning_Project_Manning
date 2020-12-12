@@ -16,8 +16,8 @@ The liveProject is for beginner or intermediate Python programmers with a desire
 TOOLS
 1. Basics of Python
 2. Basics of pandas
-4. 3. Basics of Google Colab
-5. Basics of TensorFlow and Keras
+3. Basics of Google Colab
+4. Basics of TensorFlow and Keras
 
 TECHNIQUES
 Basics of machine learning
